@@ -1,3 +1,4 @@
+package Task03;
  import java.util.*;
 public class Solution {
     public static void main(String[] args) {

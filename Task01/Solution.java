@@ -12,4 +12,5 @@ public class Solution {
         System.out.println(b);
         System.out.println(c);
         }
+        
 }
